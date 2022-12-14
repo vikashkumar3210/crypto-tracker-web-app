@@ -1,0 +1,28 @@
+body{
+    background-color:#472183;
+}
+h1 , h4{
+    color:white;
+    }
+.z{
+    background-color:#FFBF00;
+   min width:390px;
+    height:auto;
+    padding:10px 20px;
+    line-height:2;
+    border-radius:5px;
+
+}
+#s{
+    margin:4px 0 ;
+    border-radius:5px;
+    
+}
+thead{
+    font-weight:bold;
+}
+
+tbody{
+    background-color:white;
+    
+}
